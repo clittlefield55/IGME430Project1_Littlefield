@@ -1,0 +1,17 @@
+{"kanjiSet":[
+    {"id": 132, "character": "昔", "meaning": ["ancient times"], "kun-yomi": ["むかし"], "strokes": 8},
+    {"id": 133, "character": "々", "meaning": ["symbol of a repetition of a kanji"], "strokes": 3},
+    {"id": 134, "character": "神", "meaning": ["god"], "on-yomi": ["じん", "しん", "こう"], "kun-yomi": ["かみ"], "strokes": 9},
+    {"id": 135, "character": "早", "meaning": ["early"], "on-yomi": ["そう"], "kun-yomi": ["はや"], "strokes": 6},
+    {"id": 136, "character": "起", "meaning": ["to get up"], "on-yomi": ["き"], "kun-yomi": ["お"], "strokes": 10},
+    {"id": 137, "character": "牛", "meaning": ["cow"], "on-yomi": ["ぎゅう"], "kun-yomi": ["うし"], "strokes": 4},
+    {"id": 138, "character": "使", "meaning": ["to use"], "on-yomi": ["し"], "kun-yomi": ["つか"], "strokes": 8},
+    {"id": 139, "character": "働", "meaning": ["to work"], "on-yomi": ["どう"], "kun-yomi": ["はたら", "ばたら"], "strokes": 13},
+    {"id": 140, "character": "連", "meaning": ["to link"], "on-yomi": ["れん"], "kun-yomi": ["つ"], "strokes": 10},
+    {"id": 141, "character": "別", "meaning": ["to separate"], "on-yomi": ["べつ"], "kun-yomi": ["わか"], "strokes": 7},
+    {"id": 142, "character": "度", "meaning": ["time", "degrees"], "on-yomi": ["ど"], "strokes": 9},
+    {"id": 143, "character": "赤", "meaning": ["red"], "on-yomi": ["せき"], "kun-yomi": ["あか"], "strokes": 7},
+    {"id": 144, "character": "青", "meaning": ["blue"], "on-yomi": ["せい"], "kun-yomi": ["あお"], "strokes": 8},
+    {"id": 145, "character": "色", "meaning": ["color"], "on-yomi": ["しき", "しょく"], "kun-yomi": ["いろ"], "strokes": 6}
+    ]
+}

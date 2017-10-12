@@ -1,0 +1,31 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "IGME430 Project 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clittlefield55/IGME430Project1_Littlefield.git"
+  },
+  "keywords": [
+    "IGME",
+    "Project",
+    "Kanji"
+  ],
+  "author": "Christopher Littlefield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clittlefield55/IGME430Project1_Littlefield/issues"
+  },
+  "homepage": "https://github.com/clittlefield55/IGME430Project1_Littlefield#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
