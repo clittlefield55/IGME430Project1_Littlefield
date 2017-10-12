@@ -21,9 +21,9 @@ const getCSS = (request, response) => {
 
 // return the Javascript script file
 const getJavascript = (request, response) => {
-  response.writeHead(200, {'Content-Type': 'text/javascript'});
+  response.writeHead(200, { 'Content-Type': 'text/javascript' });
   response.write(pageScript);
   response.end();
 };
 
-module.exports = { getIndex, getCSS, getJavascript};
+module.exports = { getIndex, getCSS, getJavascript };

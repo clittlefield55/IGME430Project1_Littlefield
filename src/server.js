@@ -30,11 +30,11 @@ const onRequest = (request, response) => {
       }
       break;
     default:
-        // send 404 in any other case
-        jsonHandler.notFound(request, response);
-    }
-  };
-  
-  http.createServer(onRequest).listen(port);
-  
-  console.log(`Listening on 127.0.0.1: ${port}`);
+      // send 404 in any other case
+      jsonHandler.notFound(request, response);
+  }
+};
+
+http.createServer(onRequest).listen(port);
+
+console.log(`Listening on 127.0.0.1: ${port}`);
