@@ -1,4 +1,35 @@
+@font-face{
+    font-family: 'Kokoro';
+    src: url('font/Kokoro.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    text-align: center;
+    background-image: url('images/0060-white-rice-paper-texture-seamless.jpg');
+}
 h1{
     color: red;
-    text-align: center;
+    font-family: 'Kokoro';
+}
+b.symbol{
+    font-size: 26px;
+    font-family: 'Kokoro';
+}
+b.gotIt{
+    color: green;
+}
+div.kanji{
+    border: 2px solid black;
+    background-color: white;
+    width: 30%;
+    float: left;
+}
+div.kanjiSymbol{
+    float: left;
+    padding: 10px;
+}
+div.kanjiMeaning{
+    float: right;
+    padding: 10px;
 }

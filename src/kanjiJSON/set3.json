@@ -1,0 +1,17 @@
+{"kanjiSet":[
+    {"id": 30, "character": "山", "meaning": ["mountain"], "onyomi": ["さん"], "kunyomi": ["やま"], "strokes": 3},
+    {"id": 31, "character": "川", "meaning": ["river"], "kunyomi": ["かわ","がわ"], "strokes": 3},
+    {"id": 32, "character": "元", "meaning": ["origin"], "onyomi": ["げん","がん"], "kunyomi": ["もと"], "strokes": 4},
+    {"id": 33, "character": "気", "meaning": ["spirit"], "onyomi": ["き"], "strokes": 6},
+    {"id": 34, "character": "天", "meaning": ["heaven"], "onyomi": ["てん"], "strokes": 4},
+    {"id": 35, "character": "私", "meaning": ["I", "private"], "onyomi": ["し"], "kunyomi": ["わたし"], "strokes": 7},
+    {"id": 36, "character": "今", "meaning": ["now"], "onyomi": ["こん"], "kunyomi": ["いま"], "strokes": 4},
+    {"id": 37, "character": "田", "meaning": ["rice field"], "kunyomi": ["た","だ"], "strokes": 5},
+    {"id": 38, "character": "女", "meaning": ["woman"], "onyomi": ["じょ"], "kunyomi": ["おんな"], "strokes": 3},
+    {"id": 39, "character": "男", "meaning": ["man"], "onyomi": ["だん"], "kunyomi": ["おとこ"], "strokes": 7},
+    {"id": 40, "character": "見", "meaning": ["to see"], "onyomi": ["けん"], "kunyomi": ["み"], "strokes": 7},
+    {"id": 41, "character": "行", "meaning": ["to go"], "onyomi": ["こう", "ぎょう"], "kunyomi": ["い"], "strokes": 6},
+    {"id": 42, "character": "食", "meaning": ["to eat"], "onyomi": ["しょく"], "kunyomi": ["た"], "strokes": 9},
+    {"id": 43, "character": "飲", "meaning": ["to drink"], "onyomi": ["いん"], "kunyomi": ["の"], "strokes": 12}
+    ]
+}

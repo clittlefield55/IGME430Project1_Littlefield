@@ -4,6 +4,8 @@ const index = fs.readFileSync(`${__dirname}/../client/client.html`);
 const css = fs.readFileSync(`${__dirname}/../client/style.css`);
 // for easier debugging purposes, I made the client's script page a separate file 
 const pageScript = fs.readFileSync(`${__dirname}/../client/pageScript.js`);
+const background = fs.readFileSync(`${__dirname}/../client/images/0060-white-rice-paper-texture-seamless.jpg`);
+const kokoro = fs.readFileSync(`${__dirname}/../client/font/Kokoro.otf`);
 
 // return the HTML index page
 const getIndex = (request, response) => {
@@ -26,4 +28,16 @@ const getJavascript = (request, response) => {
   response.end();
 };
 
-module.exports = { getIndex, getCSS, getJavascript };
+const getImage = (request, response) => {
+  response.writeHead(200, { 'Content-Type': 'image/jpeg' });
+  response.write(background);
+  response.end();
+};
+
+const getKokoro = (request, response) => {
+  response.writeHead(200, { 'Content-Type': 'font/otf' });
+  response.write(kokoro);
+  response.end();
+};
+
+module.exports = { getIndex, getCSS, getJavascript, getImage, getKokoro };

@@ -1,18 +1,18 @@
 {"kanjiSet":[
-    {"id": 1, "character": "一", "meaning": ["one"], "on-yomi": ["いち", "いっ"], "kun-yomi": ["ひと"], "strokes": 1},
-    {"id": 2, "character": "二", "meaning": ["two"], "on-yomi": ["に"], "kun-yomi": ["ふた"], "strokes": 2},
-    {"id": 3, "character": "三", "meaning": ["three"], "on-yomi": ["さん"], "kun-yomi": ["みっ"], "strokes": 3},
-    {"id": 4, "character": "四", "meaning": ["four"], "on-yomi": ["し"], "kun-yomi": ["よん", "よ", "よっ"], "strokes": 5},
-    {"id": 5, "character": "五", "meaning": ["five"], "on-yomi": ["ご"], "kun-yomi": ["いつ"], "strokes": 4},
-    {"id": 6, "character": "六", "meaning": ["six"], "on-yomi": ["ろく", "ろっ"], "kun-yomi": ["むっ"], "strokes": 4},
-    {"id": 7, "character": "七", "meaning": ["seven"], "on-yomi": ["しち"], "kun-yomi": ["なな"], "strokes": 2},
-    {"id": 8, "character": "八", "meaning": ["eight"], "on-yomi": ["はち", "はっ"], "kun-yomi": ["やっ"], "strokes": 2},
-    {"id": 9, "character": "九", "meaning": ["nine"], "on-yomi": ["きゅう", "く"], "kun-yomi": ["ここの"], "strokes": 2},
-    {"id": 10, "character": "十", "meaning": ["ten"], "on-yomi": ["じゅう", "じゅっ", "じっ"], "kun-yomi": ["とお"], "strokes": 2},
-    {"id": 11, "character": "百", "meaning": ["hundred"], "on-yomi": ["ひゃく", "びゃく", "ぴゃく"], "strokes": 6},
-    {"id": 12, "character": "千", "meaning": ["thousand"], "on-yomi": ["せん", "ぜん"], "strokes": 3},
-    {"id": 13, "character": "万", "meaning": ["ten thousand"], "on-yomi": ["まん"], "strokes": 3},
-    {"id": 14, "character": "円", "meaning": ["yen", "circle"], "on-yomi": ["えん"], "kun-yomi": ["まる"], "strokes": 4},
-    {"id": 15, "character": "寺", "meaning": ["time"], "on-yomi": ["じ"], "kun-yomi": ["とき"], "strokes": 10}
+    {"id": 1, "character": "一", "meaning": ["one"], "onyomi": ["いち", "いっ"], "kunyomi": ["ひと"], "strokes": 1},
+    {"id": 2, "character": "二", "meaning": ["two"], "onyomi": ["に"], "kunyomi": ["ふた"], "strokes": 2},
+    {"id": 3, "character": "三", "meaning": ["three"], "onyomi": ["さん"], "kunyomi": ["みっ"], "strokes": 3},
+    {"id": 4, "character": "四", "meaning": ["four"], "onyomi": ["し"], "kunyomi": ["よん", "よ", "よっ"], "strokes": 5},
+    {"id": 5, "character": "五", "meaning": ["five"], "onyomi": ["ご"], "kunyomi": ["いつ"], "strokes": 4},
+    {"id": 6, "character": "六", "meaning": ["six"], "onyomi": ["ろく", "ろっ"], "kunyomi": ["むっ"], "strokes": 4},
+    {"id": 7, "character": "七", "meaning": ["seven"], "onyomi": ["しち"], "kunyomi": ["なな"], "strokes": 2},
+    {"id": 8, "character": "八", "meaning": ["eight"], "onyomi": ["はち", "はっ"], "kunyomi": ["やっ"], "strokes": 2},
+    {"id": 9, "character": "九", "meaning": ["nine"], "onyomi": ["きゅう", "く"], "kunyomi": ["ここの"], "strokes": 2},
+    {"id": 10, "character": "十", "meaning": ["ten"], "onyomi": ["じゅう", "じゅっ", "じっ"], "kunyomi": ["とお"], "strokes": 2},
+    {"id": 11, "character": "百", "meaning": ["hundred"], "onyomi": ["ひゃく", "びゃく", "ぴゃく"], "strokes": 6},
+    {"id": 12, "character": "千", "meaning": ["thousand"], "onyomi": ["せん", "ぜん"], "strokes": 3},
+    {"id": 13, "character": "万", "meaning": ["ten thousand"], "onyomi": ["まん"], "strokes": 3},
+    {"id": 14, "character": "円", "meaning": ["yen", "circle"], "onyomi": ["えん"], "kunyomi": ["まる"], "strokes": 4},
+    {"id": 15, "character": "寺", "meaning": ["time"], "onyomi": ["じ"], "kunyomi": ["とき"], "strokes": 10}
     ]
 }

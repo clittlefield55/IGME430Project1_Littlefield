@@ -1,0 +1,17 @@
+{"kanjiSet":[
+    {"id": 16, "character": "日", "meaning": ["day", "sun"], "onyomi": ["に", "にち", "にっ"], "kunyomi": ["び", "ひ", "か"], "strokes": 4},
+    {"id": 17, "character": "本", "meaning": ["book", "basis"], "onyomi": ["ほん"], "kunyomi": ["もと"], "strokes": 5},
+    {"id": 18, "character": "人", "meaning": ["person"], "onyomi": ["じん", "にん"], "kunyomi": ["ひと"], "strokes": 2},
+    {"id": 19, "character": "月", "meaning": ["moon", "month"], "onyomi": ["げつ", "がつ"], "kunyomi": ["つき"], "strokes": 4},
+    {"id": 20, "character": "火", "meaning": ["fire"], "onyomi": ["か"], "kunyomi": ["ひ", "び"], "strokes": 4},
+    {"id": 21, "character": "水", "meaning": ["water"], "onyomi": ["すぃ"], "kunyomi": ["みす"], "strokes": 4},
+    {"id": 22, "character": "木", "meaning": ["tree"], "onyomi": ["もく"], "kunyomi": ["き"], "strokes": 4},
+    {"id": 23, "character": "金", "meaning": ["gold", "money"], "onyomi": ["きん"], "kunyomi": ["かね"], "strokes": 8},
+    {"id": 24, "character": "土", "meaning": ["soil"], "onyomi": ["ど", "と"], "kunyomi": ["つち"], "strokes": 3},
+    {"id": 25, "character": "曜", "meaning": ["weekday"], "onyomi": ["よう"], "strokes": 18},
+    {"id": 26, "character": "上", "meaning": ["up"], "onyomi": ["じょう"], "kunyomi": ["うえ", "のぼ"], "strokes": 3},
+    {"id": 27, "character": "下", "meaning": ["down"], "onyomi": ["か"], "kunyomi": ["した", "くだ"], "strokes": 3},
+    {"id": 28, "character": "中", "meaning": ["middle"], "onyomi": ["ちゅう", "じゅう"], "kunyomi": ["なか"], "strokes": 4},
+    {"id": 29, "character": "半", "meaning": ["half"], "onyomi": ["はん"], "strokes": 5}
+    ]
+}
